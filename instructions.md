@@ -1,7 +1,7 @@
 ### To add images, audio, or video:
 
 1. Download your files onto your local computer.
-2. Duplicate this repository.
+2. Click on the blue media-host-template text above, then click Use template on the far left of the screen.
 3. Open the GitHub folder that matches the type of media you want to upload.
 4. Select your files from your computer.
 5. Click "Commit changes..."
