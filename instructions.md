@@ -3,7 +3,7 @@
 1. Download your files onto your local computer.
 2. Click on the blue media-host-template text above, then click Use template on the far left of the screen.
 3. In your new repository, open the folder that matches the type of media you want to upload.
-4. Select your files from your computer.
+4. Click Upload files. Select your files from your computer.
 5. Click "Commit changes..."
 6. Wait a couple of minutes
 
